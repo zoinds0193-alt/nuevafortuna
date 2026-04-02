@@ -1,7 +1,9 @@
 {
-  "name": "nuevafortuna",
-  "description": "Stake Pool operado en la red Pre-Production de Cardano",
-  "ticker": "FORTU",
-  "homepage": "https://cardano.org",
-  "nonce": "1712081580"
+  "pledgeADA": "0",
+  "margin": "0",
+  "costADA": "0",
+  "rewardWallet": "fortuna",
+  "pledgeWallet": "fortuna",
+  "json_url": "https://tusitio.com/cardano/poolmeta.json",
+  "relays": []
 }
