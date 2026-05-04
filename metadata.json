@@ -2,5 +2,6 @@
   "name": "nuevafortuna",
   "description": "Stake pool educativa de Republica Dominicana enfocada en aprendizaje y pruebas en Cardano Preprod.",
   "ticker": "NAFN",
-  "homepage": "https://zoinds0193-alt.github.io/nuevafortuna/"
+  "homepage": "https://zoinds0193-alt.github.io/nuevafortuna/",
+  "extended": "https://raw.githubusercontent.com/zoinds0193-alt/nuevafortuna/main/extended.json"
 }
